@@ -1,4 +1,4 @@
-FROM openjdk:16.0.2
+FROM openjdk:18
 
 WORKDIR /root
 
